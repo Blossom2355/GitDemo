@@ -10,6 +10,8 @@ public class PS1 {
 	@BeforeMethod
 	public void beforeRun() {
 		System.out.println("Run me first");
+		System.out.println("Run me second");
+		System.out.println("Run me third");
 	}
 	
 	@AfterMethod
