@@ -14,6 +14,10 @@ public class PS2 extends PS1{
 		System.out.println(ps3.increment());
 		System.out.println(ps3.decrement());
 		System.out.println(ps3.multiplyThree());
+		System.out.println("Run me third");
+		System.out.println("Run me third");
+		System.out.println("Run me third");
+		System.out.println("Run me third");
 	}
 
 }

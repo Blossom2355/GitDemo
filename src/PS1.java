@@ -17,5 +17,8 @@ public class PS1 {
 	@AfterMethod
 	public void afterRun() {
 		System.out.println("Run me last");
+		System.out.println("Run me third");
+		System.out.println("Run me third");
+		System.out.println("Run me third");
 	}
 }

@@ -16,6 +16,9 @@ public class PS4 {
 		a=a*3;
 		return a;
 		
+		
+		
 	}
+	
 	
 }
